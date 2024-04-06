@@ -2,7 +2,7 @@ Hi 👋, I'm Hasan Tahir
 
 A Mechatronics Engineering student @ the University of Waterloo, I have a strong passion for robotics and hope to one day apply what I've learned to make a positive impact on the world.
 
-I am specifically passionate about control systems and embedded software and am currently searching for a summer 2024 internship :).
+I am specifically passionate about control systems and embedded software and am an incoming software engineering intern @ [Rivian](https://rivian.com/en-GB) on the autonomy systems team.
 
 I have previously interned at [onsemi](https://www.onsemi.com) & [Forcen Inc](https://forcen.tech/), working on multi phase voltage controllers & high percision force sensors respectivly.
 

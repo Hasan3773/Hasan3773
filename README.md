@@ -2,9 +2,9 @@ Hi 👋, I'm Hasan Tahir
 
 A Mechatronics Engineering student @ the University of Waterloo, I have a strong passion for robotics and hope to one day apply what I've learned to make a positive impact on the world.
 
-I am specifically passionate about control systems and embedded software and am currently a software engineering intern @ [Rivian](https://rivian.com/en-GB) on the autonomy systems team.
+I am specifically passionate about control systems and embedded software and recently interened as a software engineering intern @ [Rivian](https://rivian.com/en-GB) on the autonomy systems team.
 
-I have previously interned at [onsemi](https://www.onsemi.com) & [Forcen Inc](https://forcen.tech/), working on multi phase voltage controllers & high percision force sensors respectivly.
+I have also previously interned at [onsemi](https://www.onsemi.com) & [Forcen Inc](https://forcen.tech/), working on multi phase voltage controllers & high percision force sensors respectivly.
 
 I am also the Motion Planning & Controls tech lead @ WATonomous 🚗 - A student design team building a self-drving car from scratch! Check out [<img src="https://img.shields.io/static/v1?label=WATonomous&amp;message=wato_monorepo&amp;color=green&amp;logo=github" alt="wato_monorepo">](https://github.com/WATonomous/wato_monorepo) to see more about what we do : )
 

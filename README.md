@@ -6,7 +6,7 @@ I am specifically passionate about control systems and embedded software and rec
 
 I have also previously interned at [onsemi](https://www.onsemi.com) & [Forcen Inc](https://forcen.tech/), working on multi phase voltage controllers & high percision force sensors respectivly.
 
-I am also the Motion Planning & Controls tech lead @ WATonomous 🚗 - A student design team building a self-drving car from scratch! Check out [<img src="https://img.shields.io/static/v1?label=WATonomous&amp;message=wato_monorepo&amp;color=green&amp;logo=github" alt="wato_monorepo">](https://github.com/WATonomous/wato_monorepo) to see more about what we do : )
+I am also Co-Captain and previous controls lead @ WATonomous 🚗 - A student design team building a self-drving car from scratch! Check out [<img src="https://img.shields.io/static/v1?label=WATonomous&amp;message=wato_monorepo&amp;color=green&amp;logo=github" alt="wato_monorepo">](https://github.com/WATonomous/wato_monorepo) to see more about what we do : )
 
 
 <h3 align="left">Languages and Tools:</h3>
